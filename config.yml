@@ -13,7 +13,7 @@ rss: true
 # site url. you can set as 'http://yoursite.com/child' if necessary
 # please add 'http://' or 'https://'
 # default "https://acyortjs.github.io"
-url: http://zWingz.github.io
+url: http://briteming.github.io/mbc
 
 # theme
 # default "ccc45"
@@ -26,7 +26,7 @@ menu:
   About: /about/
   Repo: /repo/
 
-repository: zWingz/my-blog-config
+repository: briteming/mbc
 
 pageSize:
   posts: 5
