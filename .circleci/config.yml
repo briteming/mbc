@@ -26,8 +26,8 @@ jobs:
       - run: yarn deploy
       # - run: git reset --hard origin/master # 同上
       # - run: git add .
-      - run: git config user.name "zWingz"
-      - run: git config user.email "371657110@qq.com"
+      - run: git config user.name "briteming"
+      - run: git config user.email "briteming@gmail.com"
       # - run: git commit -m "Updated by circleci - `date`"
       - run: cp google1c8aa0f9ba6c9db0.html ./public/google1c8aa0f9ba6c9db0.html
       - run: cp CNAME ./public/CNAME
